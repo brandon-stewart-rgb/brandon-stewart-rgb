@@ -9,16 +9,16 @@
 ---
 
 ```javascript
-const location = 'Salt Lake City, Utah 🎿';
+const location = 'Salt Lake City, Utah';
 ```
 ```javascript
-const learning = 'Currently learning MERNg, specifically using typescript 🔆';
+const learning = 'Currently learning MERNg, specifically using typescript';
 ```
 ```javascript
-let goals = 'A job developing software & becoming more proficient with code 💾';
+let goals = 'A job developing software & becoming more proficient with code';
 ```
 ```javascript
-var emphasis = 'MERNg ⚠️';
+var emphasis = 'MERNg';
 ```
 
 <h2>A few of my favorite technologies 🚀</h2>
@@ -40,4 +40,4 @@ var emphasis = 'MERNg ⚠️';
 
 
 
-https://gist.github.com/rxaviers/7360908
+
