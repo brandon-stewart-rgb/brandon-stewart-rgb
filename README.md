@@ -40,7 +40,7 @@ var emphasis = 'MERNg';
 
 <h2>Certs</h2>
 
-<img src='https://images.credly.com/size/250x250/images/c4beedf3-af4c-405d-8671-4a1ebd70fe24/badge-coding-bootcamp-trilogy.png' />
+<img src='https://images.credly.com/size/200x200/images/c4beedf3-af4c-405d-8671-4a1ebd70fe24/badge-coding-bootcamp-trilogy.png' />
 
 
 
