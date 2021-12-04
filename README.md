@@ -1,4 +1,4 @@
-<h1>Hello, my name is Brandon Stewart 👋<h1>
+<h1>Hello, my name is Brandon Stewart 🖖<h1>
   
 
 
@@ -37,6 +37,10 @@ var emphasis = 'MERNg';
 
 <img src="https://github-readme-stats.vercel.app/api?username=brandon-stewart-rgb&&show_icons=true&title_color=5d6475&icon_color=3a3b3c&text_color=858b97&bg_color=151515">
 <!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-stewart-rgb&langs_count=8)](https://github.com/brandon-stewart-rgb/github-readme-stats">
+
+<h2>Certs</h2>
+
+<img src='https://images.credly.com/size/250x250/images/c4beedf3-af4c-405d-8671-4a1ebd70fe24/badge-coding-bootcamp-trilogy.png' />
 
 
 
