@@ -38,15 +38,14 @@ const learning = 'WP';
 <!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandon-stewart-rgb&langs_count=8)](https://github.com/brandon-stewart-rgb/github-readme-stats">
 
 <h2>Certs</h2>
+
+
 <a href='https://www.credly.com/badges/61890781-4494-482f-b455-25f53364d6a2' target='_blank' title='Brandon Stewart Full Stack Certification from University of Utah'>
 <img  src='https://images.credly.com/size/340x340/images/b46a4322-026c-4a9f-bf6b-896062acc22c/image.png' width='100' height='100'/>
 </a>
+
 <a href='https://bcert.me/bc/html/show-badge.html?b=aptcupqy' target='_blank' title='Brandon Stewart Scrum Certification'>
     <img src='https://bcert.me/bc/html/img/badges/generated/badge-7227.png' width='100' height='100'/>
 </a>
-
-
-
-
 
 
